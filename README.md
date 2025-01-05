@@ -1,6 +1,5 @@
 # Connect Four: Jordan vs LeBron 🎮🏀
 
-## Description
 Welcome to **Connect Four: Jordan vs LeBron**, a fun and interactive Connect Four game built using **Java**. Why not settle the GOAT debate with a fun game of Connect Four? The game features a custom GUI and even a **save-game system** to track your progress.
 
 This project was perfect for me as basketball fan and a Java enthusiast to practice my coding and gaming skills! 🏀💻
